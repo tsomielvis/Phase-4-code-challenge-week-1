@@ -1,7 +1,4 @@
-Skip to content
-Navigation Menu
-Marcos-tech003
-/
+
 SuperHeroes-codechallenge
 
 Type / to search
